@@ -1,0 +1,7 @@
+discord.py
+pymongo
+motor  
+Pillow
+aiofiles
+topggpy
+aiohttp
